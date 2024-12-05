@@ -55,7 +55,7 @@ const Home: NextPage = () => {
             Two lives. Two identities. A facade that grows more difficult to maintain with each passing year.
             </p>
             <p className="text-base leading-relaxed mb-4">
-            They say time brings clarity, and perhaps that's true. As I look toward the future—past this milestone birthday that marks more than a quarter of my 
+            They say time brings clarity, and perhaps that&apos;s true. As I look toward the future—past this milestone birthday that marks more than a quarter of my 
             life—I&apos;m beginning to understand that maintaining this divide has taken more from me than I realized. The boundary between who I am and who I pretend 
             to be has started to blur, and I&apos;m tired of trying to keep them separate.
             </p>  
@@ -64,7 +64,7 @@ const Home: NextPage = () => {
             moves forward whether we&apos;re ready or not, and each day spent living inauthentically is a day I can&apos;t reclaim.
             </p> 
             <p className="text-base leading-relaxed mb-4">
-            This memoir isn't just about coming out. It's about choosing to live honestly, about believing that the relationships that matter most can withstand truth. 
+            This memoir isn&apos;t just about coming out. It&apos;s about choosing to live honestly, about believing that the relationships that matter most can withstand truth. 
             Because that&apos;s what I&apos;ve come to realize: I&apos;m not just doing this for myself. I&apos;m doing it for that twelve-year-old boy who first 
             understood who he was and felt he had to hide. I&apos;m doing it for every version of myself that got me to this point, and for the person I know 
             I can be when I stop maintaining this facade.
@@ -87,35 +87,35 @@ const Home: NextPage = () => {
           </h2>
           <div className="max-w-[900px] mx-auto">
             <p className="text-base leading-relaxed mb-4">
-            At ten years old, I didn't have words for what made me different. I just knew that I was. Like many children sensing they don't quite fit the mold, I tried to reshape 
+            At ten years old, I didn&apos;t have words for what made me different. I just knew that I was. Like many children sensing they don&apos;t quite fit the mold, I tried to reshape 
             myself into something more acceptable. I remember watching the popular kids with careful attention, studying their behaviors like lines for a play I never wanted to 
             be in. I thought if I could just master this performance—get a girlfriend, talk about the right things, laugh at the right jokes—the gnawing feeling of being out of 
             place would finally subside.
             </p>
             <p className="text-base leading-relaxed mb-4">
             But authenticity has a way of seeping through the cracks of pretense. In quiet moments at home, away from judging eyes, my true self emerged naturally. I found joy in 
-            things I was taught boys shouldn't: Barbie cartoons that spoke to me because of homemaking and dress-up, "Totally Spies" cartoon that felt more empowering with charm. 
-            I would slip on heels while at grandma's, and transform the living room into my imaginary classroom, complete with an imaginary audience that never judged the way I 
+            things I was taught boys shouldn&apos;t: Barbie cartoons that spoke to me because of homemaking and dress-up, &quot;Totally Spies&quot; cartoon that felt more empowering with charm. 
+            I would slip on heels while at grandma&apos;s, and transform the living room into my imaginary classroom, complete with an imaginary audience that never judged the way I 
             spoke or moved.
             </p>
             <p className="text-base leading-relaxed mb-4">
-            These weren't just childhood games—they were moments of unconscious liberation. Without knowing terms like "gender non-conforming" or "queer," I was exploring the full 
-            spectrum of who I could be. In those precious intervals of unsupervised play, I wasn't trying to be anything; I simply was. The happiness I felt then was pure because 
-            it was unfiltered through society's expectations.
+            These weren&apos;t just childhood games—they were moments of unconscious liberation. Without knowing terms like &quot;gender non-conforming&quot; or &quot;queer,&quot; I was exploring the full 
+            spectrum of who I could be. In those precious intervals of unsupervised play, I wasn&apos;t trying to be anything; I simply was. The happiness I felt then was pure because 
+            it was unfiltered through society&apos;s expectations.
             </p>
             <p className="text-base leading-relaxed mb-4">
             But school remained a battlefield of conformity, and no amount of carefully crafted camouflage could fully protect me. I remember the day that should have been my wake-up 
             call—when a group of classmates orchestrated an elaborate prank, convincing me that a girl liked me. My heart soared, not from genuine attraction, but from the thought that 
             finally, I had achieved what seemed like the ultimate badge of normalcy. When they revealed the truth in front of the whole school, humiliated me, their laughter cutting 
-            through the air like shards of glass, I learned that even when I tried to be normal, it couldn't save me from being seen as different.
+            through the air like shards of glass, I learned that even when I tried to be normal, it couldn&apos;t save me from being seen as different.
             </p>  
             <p className="text-base leading-relaxed mb-4">
-            Looking back, what haunts me isn't just the humiliation of that moment, but my response to it. Instead of questioning why I was trying so hard to be someone I wasn't, 
-            I doubled down. I studied harder at the performance, convinced that I just hadn't been convincing enough. I spent countless recesses in the bathroom, crying and hating 
-            myself, not because of the bullying itself, but because I believed the problem was that I hadn't tried hard enough to blend in.
+            Looking back, what haunts me isn&apos;t just the humiliation of that moment, but my response to it. Instead of questioning why I was trying so hard to be someone I wasn&apos;t, 
+            I doubled down. I studied harder at the performance, convinced that I just hadn&apos;t been convincing enough. I spent countless recesses in the bathroom, crying and hating 
+            myself, not because of the bullying itself, but because I believed the problem was that I hadn&apos;t tried hard enough to blend in.
             </p> 
             <p className="text-base leading-relaxed mb-4">
-            This was my first lesson in hiding a part of my identity, though I didn't recognize it as such at the time. It would take years before I understood that those private 
+            This was my first lesson in hiding a part of my identity, though I didn&apos;t recognize it as such at the time. It would take years before I understood that those private 
             moments of authentic joy—playing teacher, loving what I loved without shame—were actually glimpses of my true self, waiting patiently to be acknowledged and embraced.
             </p> 
           </div>
@@ -132,12 +132,12 @@ const Home: NextPage = () => {
             persona, knowing that the slightest deviation from masculine norms could make me a target.
             </p>
             <p className="text-base leading-relaxed mb-4">
-            For five years, I watched as anyone who showed even a hint of femininity became victims of relentless bullying. I'm not proud to admit that I sometimes joined in, trying to 
-            prove my own "normalcy" by participating in the very behavior that scared me most. Each time I laughed at someone else's expense, I was really protecting myself, adding 
+            For five years, I watched as anyone who showed even a hint of femininity became victims of relentless bullying. I&apos;m not proud to admit that I sometimes joined in, trying to 
+            prove my own &quot;normalcy&quot; by participating in the very behavior that scared me most. Each time I laughed at someone else&apos;s expense, I was really protecting myself, adding 
             another layer to my disguise.
             </p>
             <p className="text-base leading-relaxed mb-4">
-            The feelings I'd first noticed in primary school only grew stronger, becoming impossible to ignore. But I had no one to talk to, no way to understand what I was experiencing. 
+            The feelings I&apos;d first noticed in primary school only grew stronger, becoming impossible to ignore. But I had no one to talk to, no way to understand what I was experiencing. 
             I convinced myself there must be something wrong with me, that these feelings were a kind of illness I needed to suppress. The disconnect between the gradual emergence of 
             queer representation in media and its complete rejection in my daily life left me more confused than ever.
             </p>
@@ -163,7 +163,7 @@ const Home: NextPage = () => {
             </p>
             <p className="text-base leading-relaxed mb-4">
             The daily performance became increasingly complex. I learned to talk about girls the way my peers did, to laugh at the right jokes, to hide any behavior that might give me away. 
-            In public, I had to treat the same media representation that privately gave me hope with vocal disgust. I wasn't just hiding anymore—I was actively erasing parts of myself to fit in.
+            In public, I had to treat the same media representation that privately gave me hope with vocal disgust. I wasn&apos;t just hiding anymore—I was actively erasing parts of myself to fit in.
             </p>
             <p className="text-base leading-relaxed mb-4">
             It was exhausting maintaining this dual existence. While I had genuine moments of happiness—achievements, friendships, laughter—there was always an undercurrent of depression. I felt 
@@ -192,9 +192,9 @@ const Home: NextPage = () => {
           </h2>
           <div className="max-w-[900px] mx-auto mb-20">
             <p className="text-base leading-relaxed mb-4">
-              The world began to expand for me in unexpected ways during my final years of secondary school. The internet became my window to a larger truth: I wasn't alone. Across the globe, there 
-              were others like me—not just gay or straight, but existing across a spectrum I never knew was possible. Each new discovery was like finding another piece of a puzzle I hadn't known 
-              I was solving. For the first time, I could see a future where being different wasn't synonymous with being wrong.
+              The world began to expand for me in unexpected ways during my final years of secondary school. The internet became my window to a larger truth: I wasn&apos;t alone. Across the globe, there 
+              were others like me—not just gay or straight, but existing across a spectrum I never knew was possible. Each new discovery was like finding another piece of a puzzle I hadn&apos;t known 
+              I was solving. For the first time, I could see a future where being different wasn&apos;t synonymous with being wrong.
             </p>
             <p className="text-base leading-relaxed mb-4">
               But it was my move to California that truly shifted the ground beneath my feet. Suddenly, I found myself in a world where difference wasn&apos;t just tolerated—it was celebrated. On campus, I 
@@ -207,8 +207,8 @@ const Home: NextPage = () => {
               from peers who saw me as wholly human—began to heal wounds I hadn&apos;t even known were there.
             </p>
             <p className="text-base leading-relaxed mb-4">
-              Coming out to Clarence marked a significant milestone. His acceptance was a gift I hadn't dared to hope for, and when our cousins showed the same support, I began to believe that perhaps I could have the 
-              life I'd always wanted. This newfound courage led me to take an even bigger step during my first visit back to Malaysia.
+              Coming out to Clarence marked a significant milestone. His acceptance was a gift I hadn&apos;t dared to hope for, and when our cousins showed the same support, I began to believe that perhaps I could have the 
+              life I&apos;d always wanted. This newfound courage led me to take an even bigger step during my first visit back to Malaysia.
             </p>  
             <p className="text-base leading-relaxed mb-4">
               With trembling hands but steady resolve, I came out to my secondary school friends—the same people who had unknowingly contributed to my years of hiding through their casual homophobic jokes. 
