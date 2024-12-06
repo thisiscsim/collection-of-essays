@@ -262,7 +262,7 @@ const Home: NextPage = () => {
 
         <section>
           <h2 className="text-lg md:text-2xl mb-4 text-center">
-            Beyond
+            Where do we go from here?
           </h2>
           <div className="max-w-[900px] mx-auto mb-24">
             <p className="text-base leading-relaxed mb-4">
