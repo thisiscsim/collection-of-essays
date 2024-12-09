@@ -271,7 +271,7 @@ const Home: NextPage = () => {
               isn&apos;t a choice; it&apos;s a recognition of who I&apos;ve always been.
             </p>
             <p className="text-base leading-relaxed mb-4">
-              I&apos;ve tried to be everything a child should be. I graduated from a Tier 1 institution with a perfect GPA, became the first in our family to earn a Master&apos;s degree, and built a career of 
+              As I reflect on how far I&apos;ve come, I&apos;ve tried my best to fulfill my duty as a filial son. I graduated from a Tier 1 institution with a perfect GPA, became the first in our family to earn a Master&apos;s degree, and built a career of 
               working on the forefront of technology—changing the world. I mentor young people and contribute to causes that make real differences in the world. At twenty-seven, I&apos;ve achieved things that make me 
               proud, that I hope make you proud too. I&apos;ve done everything right—the only difference is who I love. This isn&apos;t a choice; it&apos;s simply who I am as a human being.
             </p>
