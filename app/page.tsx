@@ -276,22 +276,19 @@ const Home: NextPage = () => {
               proud, that I hope make you proud too. I&apos;ve done everything right—the only difference is who I love. This isn&apos;t a choice; it&apos;s simply who I am as a human being.
             </p>
             <p className="text-base leading-relaxed mb-4">
-              Everything I&apos;ve accomplished, every success I&apos;ve had, every good quality I possess—these all stem from your nurturing and support. You taught me to work hard, to be honest, to care for others. 
-              Now, I&apos;m asking you to extend that support one step further: to let me live authentically as myself. I&apos;ve spent years weighing this moment, understanding the risks, accepting that sharing this truth 
-              might change everything between us.
+              Everything I&apos;ve accomplished, every success I&apos;ve had, every good quality I possess—these all stem from your nurturing and support. You taught me to work hard, to be honest, to care for others. Now, I&apos;m hoping you can understand why I need to live 
+            authentically as myself. I&apos;ve spent years thinking about this moment, knowing that sharing this truth might change things between us.
             </p>  
             <p className="text-base leading-relaxed mb-4">
-              I know this will change our relationship going forward, but I can&apos;t continue living a half a life. I&apos;m not asking for your acceptance—though I hope for it—but for your acknowledgment. 
-              If this truth is something you are unable to move past, if this must be where our paths diverge, I need to know. Because I can&apos;t move forward by sacrifice my own happiness for anyone else&apos;s comfort anymore.
+              I know this might be difficult to accept. I&apos;m not asking for immediate understanding—though I hope for it—but simply for you to know who I truly am. I need to live honestly, even if it takes time for us to find our way forward. Because living two 
+              separate lives has become too heavy a burden to carry.
             </p> 
             <p className="text-base leading-relaxed mb-4">
-              Ironically, this strength to be honest, to stand on my own—it comes from you. You raised me to think independently, to be my own person, to live with integrity. 
-              Being true to myself, even when it&apos;s difficult. Even if it hurts.
+              The strength to be honest, to stay true to myself—it comes from the values you instilled in me. You raised me to think independently, to be my own person, to live with integrity. I&apos;m trying my best to honor those teachings, even when it feels challenging.
             </p> 
             <p className="text-base leading-relaxed mb-4">
-              No matter what happens after you read these words, I will always be your child. I will continue to support you both because you are forever my family—the parents who raised me, guided me, and helped me become 
-              who I am today. My love for you is unconditional and unchanging, even if yours for me changes. You gave me life, taught me to walk, showed me how to be strong. Now I must use that strength to walk my own path, 
-              even if I have to walk it alone.
+              No matter what happens after you read these words, you will always be my parents, and I will always be your child. I will continue to support you both because you are my family—the ones who raised me, guided me, and helped me become who I am today. My love for you remains constant and true. You gave me life, 
+              taught me to walk, showed me how to be strong. I hope we can walk this new path together.
             </p> 
             <p className="text-base leading-relaxed mb-4">
               I love you both with all my heart, forever and always.
