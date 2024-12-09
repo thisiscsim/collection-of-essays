@@ -281,12 +281,12 @@ const Home: NextPage = () => {
               might change everything between us.
             </p>  
             <p className="text-base leading-relaxed mb-4">
-              It breaks my heart to know this could be the end of our family as we know it, but I can&apos;t continue living a half-life. I&apos;m not asking for your acceptance—though I hope for it—but for your acknowledgment. 
-              If this truth is something you cannot move past, if this must be where our paths diverge, I need to know. Because I&apos;ve finally learned that I can&apos;t sacrifice my own happiness for anyone else&apos;s comfort anymore.
+              I know this will change our relationship going forward, but I can&apos;t continue living a half a life. I&apos;m not asking for your acceptance—though I hope for it—but for your acknowledgment. 
+              If this truth is something you are unable to move past, if this must be where our paths diverge, I need to know. Because I can&apos;t move forward by sacrifice my own happiness for anyone else&apos;s comfort anymore.
             </p> 
             <p className="text-base leading-relaxed mb-4">
-              Ironically, this strength to be honest, to stand on my own—it comes from you. You raised me to think independently, to be my own person, to live with integrity. I&apos;m doing exactly what you taught me: 
-              being true to myself, even when it&apos;s difficult. Even if it hurts.
+              Ironically, this strength to be honest, to stand on my own—it comes from you. You raised me to think independently, to be my own person, to live with integrity. 
+              Being true to myself, even when it&apos;s difficult. Even if it hurts.
             </p> 
             <p className="text-base leading-relaxed mb-4">
               No matter what happens after you read these words, I will always be your child. I will continue to support you both because you are forever my family—the parents who raised me, guided me, and helped me become 
